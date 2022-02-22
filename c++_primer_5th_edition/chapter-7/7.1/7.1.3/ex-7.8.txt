@@ -1,0 +1,4 @@
+Why does "read" define parameter as a plain reference but "print" definee its parameter as a reference to "const"
+
+Solution:
+Because when we print we do not want the data of the parameter to be modified in any 

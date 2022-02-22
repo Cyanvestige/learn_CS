@@ -1,0 +1,4 @@
+// Exercise 7.20: When are friends useful? Discuss the pros and cons of using
+friends.
+
+When we want to use non-member functions in our class but do not need those functions to be members, we would use them as friends.

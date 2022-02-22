@@ -1,0 +1,4 @@
+if (read(read(cin, data1), data2))
+
+Solution:
+If the read process runs fine, the condition is true. Otherwise it is false

@@ -1,0 +1,3 @@
+There is no constraint on how often an access specifier may appear inside a class definition.
+The members as user interfaces should be defined after "public"
+The members as implementations of the user interface should be defined after "private" 

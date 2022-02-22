@@ -1,0 +1,5 @@
+Encapsulation allows us to hide the implementations of user interfaces so that we can change the implementations in the future but the users
+do not need to know and are able to use the methods as always(black-box).
+
+It also protects data that we do not want users to change.
+

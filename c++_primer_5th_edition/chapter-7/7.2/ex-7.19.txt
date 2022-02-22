@@ -1,0 +1,2 @@
+getName() and getAddress() should be public, but the members "name" and "address" themselves should be private.
+simply do not want users to change the data directly.
