@@ -1,0 +1,8 @@
+Exercise 7.30: It is legal but redundant to refer to members through the this pointer. Discuss the pros and cons of explicitly using the this pointer
+to access members.
+
+Solution:
+pros: 
+it can be very clear that the access is to the members of the object, and the parameter with the same name as the data member can be used in the member function;
+con: 
+it is redundant and the code is not concise enough.
